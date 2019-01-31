@@ -108,3 +108,4 @@ $ docker-compose exec web bin/setup
 ## Done
 
 Navigate to http://localhost:3000 to access
+
